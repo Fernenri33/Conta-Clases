@@ -40,18 +40,18 @@
 - Se aplica una multa.
 - Es delito si se sobrepasan 11,000 dólares.
 
-##### Sujetos pasivos y responsabilidad CT
+#### Sujetos pasivos y responsabilidad CT
 
 <!-- Resumir estos conceptos porque mucho texto -->
 - **Artículo 30 Sujeto pasivo:** Se considera sujeto pasivo para los efectos del presente Código, el obligado al cumplimiento de las prestaciones tributarias, sea en calidad de contribuyente o en calidad de responsable.
 - **Artículo 31 Solidaridad:** Los obligados respecto de los cuales se verifique un mismo hecho generador de la obligación tributaria, son responsables en forma solidaria del cumplimiento de dicha obligación. Cada deudor solidario lo será del total de la obligación tributaria.
 
-##### Identificación tributaria
+#### Identificación tributaria
 
 **Atrículo 33**
 los sujetos pasivos se identificarán con el nombre y apellidos, razón social o denominación, según corresponda, conjuntamente con el número de identificación tributaria que disponga la Administración.
 
-##### Obligados por Deuda Propia o Contribuyentes
+#### Obligados por Deuda Propia o Contribuyentes
 
 **Artículo 38**
 Son contribuyentes quienes realizan o respecto de los cuales se verifica el hecho generador de la obligación tributaria.
@@ -60,7 +60,7 @@ Obligaciones.
 **Artículo 39**
 Los contribuyentes están obligados al pago de los tributos y al cumplimiento de las obligaciones formales establecidas por este Código o por las Leyes tributarias respectivas, así como al pago de las multas e intereses a que haya lugar.
 
-###### Otros aspectos a considerar en la parte tributaria
+##### Otros aspectos a considerar en la parte tributaria
 
 <!-- Añade info de diapositiva 28 y después haz resumen-->
 **Artículo 47 y 48**
