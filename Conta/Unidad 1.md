@@ -66,11 +66,9 @@ Los contribuyentes están obligados al pago de los tributos y al cumplimiento de
 **Artículo 47 y 48**
 Son responsables directos en calidad de agentes de retención o percepción, los sujetos designados por este Código o por la Administración Tributaria, a efectuar la retención o percepción del impuesto que corresponda, en actos u operaciones en los que intervengan o cuando paguen o acrediten sumas.
 
-### Excenciones
+#### Excenciones
 
-Modo de excepción: Excepción que se hace sobre el pago de tributo por motivos "beneficiosos a la sociedad" (Educación, salud, economía, etc).
-
-<!-- Haz unas pesnañas apara los artículos -->
+<!-- Haz unas pestañas apara los artículos -->
 
 Artículo 64.- Exención es la dispensa legal de la obligación tributaria sustantiva.Condiciones y Requisitos
 
