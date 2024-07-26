@@ -74,6 +74,6 @@ Artículo 64.- Exención es la dispensa legal de la obligación tributaria susta
 
 Artículo 65.- La Ley que establezca exenciones especificará las condiciones y requisitos exigidos para su otorgamiento, los tributos que comprende, si es total o parcial y, en su caso el plazo de su duración.
 
-#### Pendientes
+### Pendientes
 
 - Tiempo impositivo
