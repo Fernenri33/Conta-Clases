@@ -69,6 +69,7 @@ Son responsables directos en calidad de agentes de retención o percepción, los
 #### Excenciones
 
 <!-- Haz unas pestañas apara los artículos -->
+<!-- Debería hacer un archivo solo  para artículos -->
 
 Artículo 64.- Exención es la dispensa legal de la obligación tributaria sustantiva.Condiciones y Requisitos
 
