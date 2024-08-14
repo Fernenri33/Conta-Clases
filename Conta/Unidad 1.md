@@ -68,13 +68,18 @@ Son responsables directos en calidad de agentes de retención o percepción, los
 
 #### Excenciones
 
-<!-- Haz unas pestañas apara los artículos -->
-<!-- Debería hacer un archivo solo  para artículos -->
-
 Artículo 64.- Exención es la dispensa legal de la obligación tributaria sustantiva.Condiciones y Requisitos
 
 Artículo 65.- La Ley que establezca exenciones especificará las condiciones y requisitos exigidos para su otorgamiento, los tributos que comprende, si es total o parcial y, en su caso el plazo de su duración.
 
+### 12 de octubre
+
+Cuáles son los libros de IVA??
+
+- **Libro de compras:** se registran las operaciones comerciales realizadas entre contribuyentes mediante la emisión de documentos de crédito fiscal
+- **Libro de ventas a contribuyentes:** es el libro que registra las ventas realizadas.
+- **Libro de ventas a consumidor final.** <!-- Rellena esta parte -->
+
 ### Pendientes
 
-- Tiempo impositivo
+- Caja chica
