@@ -50,7 +50,7 @@ El libro diario es un registro contable donde se anotan todas las transacciones 
 Establecido por Luca Paccioli, doble partida
 A todo cargo le correspone un abono
 
-<!-- Agrega contenido -->
+<!-- Agrega contenido sobre partida doble-->
 
 ## 1.1 Conceptos, objetivos e importancia de la contabilidad financiera
 
